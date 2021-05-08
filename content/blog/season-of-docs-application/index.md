@@ -24,7 +24,6 @@ I chose a project, took some time to read about the technologies, understand the
 
 Thinking of it now, I think I gave up too soon.
 
-
 I'm not sure how I discovered **[Season of Docs](https://developers.google.com/season-of-docs/)**, it is an initiative to involve technical writers in open source. It seemed interesting. The application period was during my Summer break and I was familiar with the application process this time, so I decided to give it a shot. But this time, I'd take it easy.
 
 We learn from our mistakes, I chose a project that I was confident in, but it also required me to step a little outside my comfort zone -- at [The Wikimedia Foundation](https://wikimediafoundation.org/). I reached out to my mentors and started exploring. I read article and books about technical writing, listened to talks and podcasts, and also joined some community forums. It took me nearly a month to learn enough about technical writing, navigate MediaWiki effectively, understand the documentation structure and find the right resources.
@@ -33,10 +32,10 @@ In open-source initiatives like GSoD, GSoC and Outreachy, the applicant communit
 
 The final, most important step is drafting the proposal. Here's a link to [my final GSoD proposal](https://phabricator.wikimedia.org/T226018). Some tips on writing a good proposal:
 
-- Start early. I can't stress this enough. It takes time to write a good proposal.
-- Refer to previous year proposals accepted by your organization and other organizations.
-- Have a clear structure in mind before beginning. Map out the different sections and what they should include.
-- Be mindful about your time-line. We tend to overestimate what we can accomplish in one week.
-- Finalize a draft early (1-2 weeks before the deadline) to incorporate feedback from your mentors.
+* Start early. I can't stress this enough. It takes time to write a good proposal.
+* Refer to previous year proposals accepted by your organization and other organizations.
+* Have a clear structure in mind before beginning. Map out the different sections and what they should include.
+* Be mindful about your time-line. We tend to overestimate what we can accomplish in one week.
+* Finalize a draft early (1-2 weeks before the deadline) to incorporate feedback from your mentors.
 
 The application process served as my gateway into the open-source world. I enjoyed working on the tasks and continued doing so after submitting my proposal.

@@ -15,16 +15,15 @@ toc: true
 
 ## Scalable Data Science with Dask
 
-*6th April, 2021*
+<i>6th April, 2021</i>
 
 I presented a short talk covering big data, scalable compute, and Dask, at a PyLadies Berlin Meetup.
 
 Material: [GitHub repo](https://github.com/pavithraes/scalable-data-science-with-dask)
 
-
 ## Introduction to FOSS Contributions
 
-*26th January, 2021*
+<i>26th January, 2021</i>
 
 I took a beginner workshop on contributing to free and open source software at a PyLadies Amsterdam Meetup.
 

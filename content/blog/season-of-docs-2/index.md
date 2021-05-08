@@ -16,15 +16,15 @@ aliases: [/posts/season-of-docs-part-2/]
 
 I got the acceptance email! I was sooo excited and couldn't wait to get started!
 
-*Special note: Sarah R. Rodlund was my GSoD mentor, and she is awesome. She is super knowledgeable, kind, supportive, patient and encouraging. Genuinely. The best part, she always spreads happy energy. I came out of every meeting feeling cheerful, energized and motivated to do more. Thank you Sarah! <3*
+**Special note:** Sarah R. Rodlund was my GSoD mentor, and she is awesome. She is super knowledgeable, kind, supportive, patient and encouraging. Genuinely. The best part, she always spreads happy energy. I came out of every meeting feeling cheerful, energized and motivated to do more. Thank you Sarah! <3
 
-### First meeting
+## First meeting
 
 I was equal parts excited and nervous, but a few minutes into the meeting, I had calmed down.
 
 We decided to start with doc development early and established an agreement to guide us through the next few months. It was so important that we set expectations early. We also discussed some personal goals that I believe we accomplished. :)
 
-### Technical documentation
+## Technical documentation
 
 For the first half of the doc-development phase, we worked on improving the documentation for Wikimedia's technical writers.
 
@@ -34,7 +34,7 @@ It takes time to write documentation and most of it is pure research; Actual wri
 
 Other documents we worked on, included writing some guidelines for prioritization of documentation tasks, text formatting templates and using graphics in technical docs.
 
-### Toolforge and Cloud VPS
+## Toolforge and Cloud VPS
 
 For the second half, we decided to work on improving the Toolforge and Cloud VPS documentation. I was new to this domain and it took me a few weeks to figure out the documentation layout and gain a basic understanding of Wikimedia Cloud Services. I liked it. We decided to start by working on the navigation and categories before moving on to content distribution. We created navigation sidebars for Toolforge and Cloud VPS. We also accessed the categories and namespaces of the pages. Finally, I worked on documenting some tips on developing tools with Toolforge.
 

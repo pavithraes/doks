@@ -17,9 +17,7 @@ Technical writing is different from creative writing. The goal of technical docu
 ## Why Plain English?
 
 * English is not the first language for many people. **More people can understand** Plain English compared to sophisticated English.
-
 * Plain English is **easier to translate**. Common English words and phrases are more likely to have equally common counterparts in other languages.
-
 * Plain English is **easier to comprehend**. Readers can focus on understanding the technical concept instead of decoding the sentence.
 
 ## Basics of Plain English
@@ -71,6 +69,7 @@ Note that *slangs* are also jargon.
 ### Planning
 
 It is good practice to plan a document before you start writing. Think about the following:
+
 * Intended audience
 * Scope of the document
 * Broader context
@@ -78,7 +77,6 @@ It is good practice to plan a document before you start writing. Think about the
 ### Structure
 
 Start with a rough structure. Try to split each concept into a distinct section. Clear structure and headings improve readability.
-
 
 ### Style Guides
 

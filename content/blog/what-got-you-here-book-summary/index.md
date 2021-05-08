@@ -24,6 +24,7 @@ A book by *Marshall Goldsmith*, you can buy it [here](https://www.amazon.com/Wha
 Successful people have 4 primary beliefs, it’s why they’re successful, but it’s also why they resist change. It’s important we acknowledge and understand these.
 
 Beliefs:
+
 1. **I have succeeded** ~ I believe in my *skills and talent*
 2. **I can succeed** ~ I am *confident* that I can succeed
 3. **I will succeed** ~ I have the *motivation* to succeed
@@ -63,6 +64,7 @@ People will do something -- including changing their behaviour -- only if it can
 From everyone around you: people working above you, below you and alongside you (360 degree feedback). Also, family. :)
 
 **Ask them to:**
+
 1. Let go of the past
 2. Tell the truth
 3. Be supportive and helpful

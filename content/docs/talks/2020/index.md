@@ -15,7 +15,7 @@ toc: true
 
 ## Bokeh QnA Session
 
-*27th July, 2020*
+<i>27th July, 2020</i>
 
 I participated in a QnA session on Bokeh! It was hosted by the amazing PyLadies Amsterdam community. :)
 
@@ -23,7 +23,7 @@ Recording: [YouTube](https://youtu.be/5MhlCabsSRw)
 
 ## Introduction to Data Visualization with Bokeh
 
-*30st August, 2020*
+<i>30st August, 2020</i>
 
 I took an introductory workshop on data visualization with Bokeh at a PyLadies Hyderabad meetup. This was my first hands-on session, ever!
 
@@ -33,7 +33,7 @@ Material: [GitHub repo](https://github.com/pavithraes/bokeh-workshop)
 
 ## Writing a Winning Proposal
 
-*9th August, 2020*
+<i>9th August, 2020</i>
 
 I gave a talk on writing good proposals for open source programs like Google Summer of Code, Outreachy, and Google Season of Docs. It was for a webinar on ["Standing out in OSS Programs Applications"](https://twitter.com/SheCodeAfrica/status/1291078381623222272?s=20) organized by [Women of Open Source Community Africa](https://www.oscafrica.org/) and [She Code Africa](https://www.shecodeafrica.org/).
 

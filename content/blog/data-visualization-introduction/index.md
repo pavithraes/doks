@@ -30,13 +30,9 @@ Visualization, not data visualization, just 'visualization' is a broad term. Thi
 Visualizations can be charts, maps, infographics, news application and data visualization.
 
 * **Charts (aka plots and graphs):** data presented with symbols that have different shapes, colours, or sizes
-
 * **Maps:** representation of a geographical area or data that corresponds to that area
-
 * **Infographics:** multi-section visual representation of information intended to communicate one or more specific messages
-
 * **News Application:** special kind of visualization that lets people relate the presented data to their own life; mostly interactive
-
 * **Data Visualization:** display of data designed to enable analysis, exploration, and discovery
 
 The boundaries here are not strict. In fact, these blend into each other very beautifully.
@@ -49,9 +45,7 @@ The boundaries here are not strict. In fact, these blend into each other very be
 Another way to categorize is into information visualization, scientific visualization, geographical visualization.[4]
 
 * **SciViz:** 3d objects used to represent data; often depict flows, surfaces, volumes
-
 * **GeoViz:** 2d or 3d objects can be used to represent data; map-based; uses spacial coordinates
-
 * **InfoViz:** deals with abstract data like hierarchies, networks and multi-dimensional spaces
 
 **Data Visualization**, in this case, encompasses SciViz and GeoViz. Data Visualization along with Analytics forms **Visual Analytics**.
@@ -88,15 +82,11 @@ Third, we need to learn to use some data visualization tools effectively. There 
 
 Finally, the more we learn, the more things there are to learn. For example, interactive plots can be explored in-depth, we can discuss the above three aspects individually for interactive plots too! I'm excited to see where this series takes us!
 
-
 ## References
 
 I referred to the following books to write this blog post:
 
 [1] The Truthful Art: Data, Charts, and Maps for Communication by Alberto Cairo
-
 [2] Fundamentals of Data Visualization by Claus O. Wilke
-
 [3] Data Visualization: A Practical Introduction by Kieran Healy
-
 [4] Visualization Analysis and Design by Tamara Munzner
