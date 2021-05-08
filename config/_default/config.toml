@@ -1,4 +1,4 @@
-baseurl = "https://pavithraes.github.io/doks/"
+baseurl = "/"
 disableAliases = false
 disableHugoGeneratorInject = true
 enableEmoji = true
