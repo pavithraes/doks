@@ -1,25 +1,25 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
-titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+title = "Pavithra"
+titleSeparator = " | "
+titleAddition = "Hi!"
+description = "Pavithra's home page."
 
 ## Open Graph + Twitter Cards
-images = ["doks.png"]
-twitterSite = "henkverlinde"
-twitterCreator = "henkverlinde"
-facebookAuthor = "verlinde.henk"
-facebookPublisher = "verlinde.henk"
+images = [""]
+twitterSite = "pavithraes"
+twitterCreator = "pavithraes"
+facebookAuthor = ""
+facebookPublisher = ""
 ogLocale = "en_US"
 
 ## JSON-LD
 schemaType = "Organization"
-schemaLogo = "logo-doks.png"
-schemaTwitter = "https://twitter.com/henkverlinde"
-schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaGitHub = "https://github.com/h-enk"
+schemaLogo = ""
+schemaTwitter = "https://twitter.com/pavithraes"
+schemaLinkedIn = "https://www.linkedin.com/in/pavithra-eswaramoorthy-47977b146/"
+schemaGitHub = "https://github.com/pavithraes"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -36,21 +36,21 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+footer = "© 2021 Pavithra Eswaramoorthy"
 
 # Alert
 alert = false
-alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+alertText = ""
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = ""
 editPage = false
 
 [options]
   lazySizes = true
   clipBoard = true
   instantPage = true
-  flexSearch = true
+  flexSearch = false
   darkMode = true
   bootStrapJs = false
   breadCrumb = false
